@@ -1,6 +1,6 @@
 # SmartLoop
 
-##Music Looping Reinvented
+##Rethink Music Looping
 
 This Mac OS X program is to solve one of the biggest frustration faced by music listeners - LOOPING.
 
