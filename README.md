@@ -1,11 +1,15 @@
 # SmartLoop
-(Mac OS X application)
 
-Music looping reinvented
+##Music Looping Reinvented
 
-I like to have music turned on when I am working. But the problem is, I have to frequently reselect songs, due to boring "loop-all" when I have hundreds of song in the music folder.
-I don't like random looping either, because unpredictability makes me frustrated.
+This Mac OS X program is to solve one of the biggest frustration faced by music listeners - LOOPING.
 
-So I think of compromise between these two: Progressive looping. For example, I have 100 songs, I loop 10 songs per cycle. At the next cycle I progress by 1, i.e. the next loop start from second song. The loops goes on.
+Most standard music players provide 3 kinds of looping: LOOP ONE, LOOP ALL, RANDOM. But here is the problem: We don't really adapt well into either of them. Some of us tend to repeat one or a few songs that we love over the rest, until we bored of it, then manually search for the rest. Random looping does not work well either because we (or is it just me?) somehow need predictability of the order of songs, to feel comfortable.
 
-This way is good that I can repeat each songs I love for enough frequency and at the same time I don't get bored of it.
+Fortunately, there is a way to get the best of both worlds from CHAOS (random looping) and ORDER (ordered looping).
+
+###INCREMENTAL LOOPING
+
+How it works: For example, I have 102 songs. The list start with the first song. When it loops until 10th, it loops back to 2nd song (instead of 1st) so that the loop is incremented by one, i.e. next loop will have 11th song. And et cetera.
+
+This way of looping is to ensure you listen to each songs for optimal frequency: Satisfied but not bored, and you can get to enjoy all tracks in your playlist without need to worry about what song to play next.
