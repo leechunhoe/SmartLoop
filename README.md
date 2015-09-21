@@ -1,12 +1,12 @@
 # SmartLoop
 
-##Rethink Music Looping
+##RETHINK WAY OF LISTENING MUSIC
 
 This Mac OS X program is to solve one of the biggest frustration faced by music listeners - LOOPING.
 
 Most standard music players provide 3 kinds of looping: LOOP ONE, LOOP ALL, RANDOM. But here is the problem: We don't really adapt well into either of them. Some of us tend to repeat one or a few songs that we love over the rest, until we bored of it, then manually search for the rest. Random looping does not work well either because we (or is it just me?) somehow need predictability of the order of songs, to feel comfortable.
 
-Fortunately, there is a way to get the best of both worlds from CHAOS (random looping) and ORDER (ordered looping).
+Fortunately, there is a way to get the best of both worlds from chaos (random looping) and order (ordered looping).
 
 ###INCREMENTAL LOOPING
 
