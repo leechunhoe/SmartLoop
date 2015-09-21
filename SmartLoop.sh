@@ -48,9 +48,9 @@ do
 	fi
 
 	echo "$orderInArray : ${musicFiles[$orderInArray]}";
-	afplay "${musicFiles[$orderInArray]}";
 	let "order++";
-
 	echo "$cycle" > $metadata;
     echo "$order" >> $metadata;
+
+    afplay "${musicFiles[$orderInArray]}";
 done

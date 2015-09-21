@@ -2,7 +2,6 @@
 
 # SmartLoop
 # Is a program to loop your music playlist smartly
-# 
 # Created by Lee Chun Hoe 21.9.2015
 
 cd;
@@ -49,9 +48,9 @@ do
 	fi
 
 	echo "$orderInArray : ${musicFiles[$orderInArray]}";
-	afplay "${musicFiles[$orderInArray]}";
 	let "order++";
-
 	echo "$cycle" > $metadata;
     echo "$order" >> $metadata;
+
+    afplay "${musicFiles[$orderInArray]}";
 done
